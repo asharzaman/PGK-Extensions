@@ -1,0 +1,5 @@
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Entity\bin\Debug\PGK.Extensions.XML
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Entity\bin\Debug\PGK.Extensions.Entity.dll
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Entity\bin\Debug\PGK.Extensions.Entity.pdb
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Entity\obj\Debug\PGK.Extensions.Entity.dll
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Entity\obj\Debug\PGK.Extensions.Entity.pdb

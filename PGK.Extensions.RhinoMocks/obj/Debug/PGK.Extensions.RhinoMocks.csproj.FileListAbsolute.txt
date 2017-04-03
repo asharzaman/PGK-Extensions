@@ -1,0 +1,7 @@
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.RhinoMocks\bin\Debug\PGK.Extensions.RhinoMocks.dll
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.RhinoMocks\bin\Debug\PGK.Extensions.RhinoMocks.pdb
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.RhinoMocks\bin\Debug\Rhino.Mocks.dll
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.RhinoMocks\bin\Debug\Rhino.Mocks.xml
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.RhinoMocks\obj\Debug\PGK.Extensions.RhinoMocks.csprojResolveAssemblyReference.cache
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.RhinoMocks\obj\Debug\PGK.Extensions.RhinoMocks.dll
+C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.RhinoMocks\obj\Debug\PGK.Extensions.RhinoMocks.pdb
