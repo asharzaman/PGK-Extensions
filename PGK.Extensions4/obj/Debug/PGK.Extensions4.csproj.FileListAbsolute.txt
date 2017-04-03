@@ -1,8 +1,0 @@
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions4\bin\Debug\PGK.Extensions4.dll
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions4\bin\Debug\PGK.Extensions4.pdb
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions4\bin\Debug\PGK.Extensions.dll
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions4\bin\Debug\PGK.Extensions.pdb
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions4\bin\Debug\PGK.Extensions.xml
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions4\obj\Debug\PGK.Extensions4.csprojResolveAssemblyReference.cache
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions4\obj\Debug\PGK.Extensions4.dll
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions4\obj\Debug\PGK.Extensions4.pdb

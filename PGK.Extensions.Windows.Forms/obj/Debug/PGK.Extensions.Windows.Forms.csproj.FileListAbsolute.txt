@@ -1,6 +1,0 @@
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Windows.Forms\bin\Debug\PGK.Extensions.Windows.Forms.XML
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Windows.Forms\bin\Debug\PGK.Extensions.Windows.Forms.dll
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Windows.Forms\bin\Debug\PGK.Extensions.Windows.Forms.pdb
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Windows.Forms\obj\Debug\PGK.Extensions.Windows.Forms.csprojResolveAssemblyReference.cache
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Windows.Forms\obj\Debug\PGK.Extensions.Windows.Forms.dll
-C:\Users\azaman\Downloads\PGK-Extensions\PGK-Extensions\PGK.Extensions.Windows.Forms\obj\Debug\PGK.Extensions.Windows.Forms.pdb
